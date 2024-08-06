@@ -1,8 +1,17 @@
-# React + Vite
+# myTodos App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Todo app built with React and TailwindCSS.
 
-Currently, two official plugins are available:
+Live Demo: 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![myTodos App Screenshot](path_to_screenshot_image)
+
+## Features
+
+- Add new todos
+- Mark todos as complete
+- Delete todos
+- Clear all todos
+- Persistent storage using local storage
+- Responsive design
+- Display current date and time
