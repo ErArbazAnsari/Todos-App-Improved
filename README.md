@@ -2,16 +2,18 @@
 
 A modern and responsive Todo app built with React and TailwindCSS.
 
-Live Demo: 
+Live Demo:
 
-![myTodos App Screenshot](path_to_screenshot_image)
+<div align=center>
+<img src='./public/image.png'>
+</div>
 
 ## Features
 
-- Add new todos
-- Mark todos as complete
-- Delete todos
-- Clear all todos
-- Persistent storage using local storage
-- Responsive design
-- Display current date and time
+-   Add new todos
+-   Mark todos as complete
+-   Delete todos
+-   Clear all todos
+-   Persistent storage using local storage
+-   Responsive design
+-   Display current date and time
