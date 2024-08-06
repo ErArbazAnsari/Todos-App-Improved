@@ -2,7 +2,7 @@
 
 A modern and responsive Todo app built with React and TailwindCSS.
 
-Live Demo:
+Live Demo: https://mytodos-arbazansari.vercel.app/
 
 <div align=center>
 <img src='./public/image.png'>
